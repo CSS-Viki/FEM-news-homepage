@@ -201,6 +201,9 @@ body {
 }
 
 @media (max-width: 41.25em) {
+  body {
+    padding: 1.5em;
+  }
   .nav-lists {
     position: absolute;
     left: -100%;
