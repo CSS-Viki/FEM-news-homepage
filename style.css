@@ -219,7 +219,7 @@ body {
     padding: 100px 30px;
     color: var(--Very-dark-blue);
     background-color: var(--Off-white);
-    box-shadow: -5px 10px 500px 63px rgba(0, 0, 0, 0.75);
+    box-shadow: -195px 0px 400px 200px rgba(0, 0, 0, 0.75);
     display: flex;
     transition: all 0.3s ease-in;
   }
